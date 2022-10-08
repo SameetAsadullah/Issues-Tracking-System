@@ -23,3 +23,7 @@ An `Issues Tracking System` in `Java` using `IntelliJ`. You can `Add, Edit, Dele
 <div align="center">
   <img src = "https://github.com/SameetAsadullah/Issues-Tracking-System/blob/main/extras/delete-issue-ss.png" alt = "" width="500px"/>
 </div>
+
+<div align="center">
+  <img src = "https://github.com/SameetAsadullah/Issues-Tracking-System/blob/main/extras/view-issues-ss.png" alt = "" width="500px"/>
+</div>
